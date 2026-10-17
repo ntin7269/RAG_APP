@@ -1,6 +1,6 @@
 # RAG Document Q&A App
 
-This is my RAG homework project. Users upload PDF/TXT/DOCX, pick one file, ask questions, and get answers with source snippets from that document.
+This is my RAG project. Users upload PDF/TXT/DOCX, pick one file, ask questions, and get answers with source snippets from that document.
 
 It runs locally with Docker Compose. It is an MVP, not a production app — but I kept frontend, API, and backend in separate folders so the architecture is easy to walk through.
 
